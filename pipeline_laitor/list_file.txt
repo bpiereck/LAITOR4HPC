@@ -1,0 +1,17 @@
+
+
+### To update Megadictionary
+
+#taxonomy file  = /home/bpiereck/Documents/LAITOR4HPC_pipeline/megaDict_data/taxonomy/names.dmp
+
+#uniprot file   = /home/bpiereck/Documents/LAITOR4HPC_pipeline/megaDict_data/uniprot/uniprot_sprot.dat
+
+#gene_info file = /home/bpiereck/Documents/LAITOR4HPC_pipeline/megaDict_data/geneInfo/all_data.gene_info
+
+gene_info file = /home/bpiereck/Documents/LAITOR4HPC_pipeline/megaDict_data/geneInfo/all_data.gene_info_div100
+
+
+
+### To update stimuli, concepts dictionary
+DB name   = /home/bpiereck/Documents/LAITOR4HPC_pipeline/LAITOR4HPC/laitor_nocase.db
+#mesh file = /home/bpiereck/Documents/LAITOR4HPC_pipeline/mesh/desc2020
